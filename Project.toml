@@ -1,0 +1,17 @@
+name = "Candidaturas"
+uuid = "25e6d3db-67fb-4d0c-8f69-15900896f9ce"
+authors = ["José Bayoán Santiago Calderón <naoyabpr@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Cascadia = "54eefc05-d75b-58de-a785-1a3403f0919f"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+ImageIO = "82e4d734-157c-48bb-816b-45c225c6df19"
+ImageMagick = "6218d12a-5da1-5696-b52f-db25d2ecc6d1"
+ImageMagick_jll = "c73af94c-d91f-53ed-93a7-00f77d67a9d7"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+OCReract = "c9880795-194d-450c-832d-1e8a03a8ecd1"
+QuartzImageIO = "dca85d43-d64c-5e67-8c65-017450d5d020"
+Unicode = "4ec0a83e-493e-50e2-b9ac-8f72acf5a8f5"
